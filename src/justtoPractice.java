@@ -5,5 +5,6 @@ public class justtoPractice {
         System.out.println("i am learning");
         System.out.println("banglore");
         System.out.println("Conflicts");
+        System.out.println("resolve conflicts");
     }
 }
