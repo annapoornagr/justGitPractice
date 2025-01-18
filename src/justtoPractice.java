@@ -1,9 +1,8 @@
 public class justtoPractice {
     public static void main(String[] args) {
-        System.out.println("Hello, good morning");
-        System.out.println("yes");
-        System.out.println("i am learning");
-        System.out.println("banglore");
-        System.out.println("Conflicts");
+        int a=10;
+        int b-20;
+        int sum=10+20;
+        System.out.println("sum");
     }
 }
